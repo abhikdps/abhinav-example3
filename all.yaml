@@ -8,3 +8,5 @@ spec:
   targets:
     - ./templates/windows-operations-create-iis.yaml
     - ./templates/windows-operations-delete-iis.yaml
+    - ./templates/network-create-full-network-backup.yaml
+    - ./templates/network-restore-config.yaml
